@@ -182,10 +182,6 @@ Contributions are welcome! Areas for improvement:
 - Performance optimization for large datasets
 - Additional output formats
 
-## 👨‍💻 Author
-
-Created for Python Challenge 8a - Geospatial Data Processing
-
 ## 📚 References
 
 - [GDAL Documentation](https://gdal.org/)
@@ -196,3 +192,4 @@ Created for Python Challenge 8a - Geospatial Data Processing
 
 
 **Note**: This tool is designed for educational purposes and small to medium-sized datasets. For production use with large point clouds, consider optimized libraries like PDAL or commercial GIS software.
+

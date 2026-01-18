@@ -98,8 +98,8 @@ Raster region setup complete with extents: {...}
 Raster will have 245 columns and 189 rows with cell size 2.
 
 Performing IDW interpolation (Power=2)...
-进度: 10/189 行 (5.3%)
-进度: 20/189 行 (10.6%)
+Progress: 10/189 Row (5.3%)
+Progress: 20/189 Row (10.6%)
 ...
 IDW interpolation complete.
 
@@ -193,5 +193,6 @@ Created for Python Challenge 8a - Geospatial Data Processing
 - [OGR Vector Processing](https://gdal.org/api/python.html)
 
 ---
+
 
 **Note**: This tool is designed for educational purposes and small to medium-sized datasets. For production use with large point clouds, consider optimized libraries like PDAL or commercial GIS software.
